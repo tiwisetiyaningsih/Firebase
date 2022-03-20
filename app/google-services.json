@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792868323713",
+    "project_id": "fir-novita",
+    "storage_bucket": "fir-novita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792868323713:android:55a40d534cc7c6701e2880",
+        "android_client_info": {
+          "package_name": "com.firebasenovita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792868323713-hfeolf9vetrj78o2mg6r4dadk2b1es7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYoMRpOEVw_mSc4rElAAU52z34FaglPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792868323713-hfeolf9vetrj78o2mg6r4dadk2b1es7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
